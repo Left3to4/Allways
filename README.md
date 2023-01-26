@@ -68,7 +68,6 @@ YouTube 영상</a>
 
 <br>
 <h1>개발 기능 </h1>
-<br>
 
 ## Customer
 - 로그인
