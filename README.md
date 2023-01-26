@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://github.com/Left3to4/Allways" rel="nofollow">
+<a href="https://github.com/Left3to4/Allways/blob/main/4%E1%84%8C%E1%85%A9%20PT.pdf" rel="nofollow">
 <img src="https://cdn.icon-icons.com/icons2/1066/PNG/512/Books_icon-icons.com_76879.png" width="30" height="15" style="max-width: 100%;">
 포트폴리오 PDF</a>
 
