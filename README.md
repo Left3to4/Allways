@@ -8,7 +8,7 @@
 
 <br>
 
-<a href="" rel="nofollow">
+<a href="https://youtu.be/MocYVNVYhb0" rel="nofollow">
 <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" style="max-width: 100%;">
 YouTube 영상</a>
 
